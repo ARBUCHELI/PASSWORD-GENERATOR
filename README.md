@@ -9,6 +9,6 @@ the global variable <strong>word_list</strong> to build the password.
 <strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
-2. Open, compile and run the oscar_nominations.py file with Python 3 to see the project.
+2. Open, compile and run the password_generator.py file with Python 3 to see the project.
 
 # Author: Andrés R. Bucheli.
