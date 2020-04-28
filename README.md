@@ -4,6 +4,7 @@ Write a function called <strong>generate_password</strong> that selects three ra
 <strong>word_list</strong> and concatenates them into a single string. Your function should not accept any arguments and should reference 
 the global variable <strong>word_list</strong> to build the password.
 
+![pass](https://github.com/anferebu/PASSWORD-GENERATOR/blob/master/password.jpg)
 
 <strong>INSTRUCTIONS</strong>
 
